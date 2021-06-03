@@ -1,4 +1,9 @@
 /*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 Edmund Johnson V
+ */
+
+/*
 Create a program that prompts for an input string and displays output that shows the input string and the number of characters the string contains.
 
 Example Output
